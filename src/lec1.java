@@ -7,7 +7,7 @@ public static void main(String args[])
     num1++;
     ++num1;
     int result = ++num1;
-    int result = ++num1;  // first increment and then fetch the value
+//    int result = ++num1;  // first increment and then fetch the value
     System.out.println(result);
 
 
@@ -16,7 +16,7 @@ public static void main(String args[])
     int sum = num1 % num2;
     System.out.println(sum);
   float marks = 6.55f;
-  int num1 =8;
+//  int num1 =8;
   byte by = 127;
   short sh =555;
   float f = 5.8f;
@@ -26,7 +26,7 @@ public static void main(String args[])
 
 
     //literals
-    int num1 = 10_00_00_00_00;
+//    int num1 = 10_00_00_00_00;
     System.out.println(num1);
 }
 }
